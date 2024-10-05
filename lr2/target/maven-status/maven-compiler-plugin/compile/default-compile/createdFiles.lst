@@ -1,0 +1,10 @@
+ru/model/Response.class
+ru/controller/MyController.class
+ru/MyApplication.class
+ru/service/RequestValidationService.class
+ru/exception/ValidationFailedException.class
+ru/exception/UnsupportedCodeException.class
+ru/service/ValidationService.class
+ru/model/Response$ResponseBuilder.class
+ru/model/Request$RequestBuilder.class
+ru/model/Request.class
